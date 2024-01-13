@@ -198,6 +198,7 @@ header{
     .butts{
         display: flex;
         justify-content: space-between;
+        margin-inline: 20px;
         align-items: center;
         padding-block: 10px;
         padding-inline: 10px;
